@@ -5,3 +5,4 @@ wandb/
 *.pyc
 *.ply
 .vscode/
+checkpoints/
